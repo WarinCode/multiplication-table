@@ -1,3 +1,4 @@
+# python b.py
 number  = int(input("สูตรคูณแม่  = "))
 lenght = int(input("จำนวน = "))
 render = number
